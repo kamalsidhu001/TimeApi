@@ -14,5 +14,8 @@ This is a Go-based application that interacts with a MySQL database to manage an
 - [MySQL](https://www.mysql.com/) database
 - Go modules:
   - `github.com/go-sql-driver/mysql`
-
+    
+## Run Application
+use go run main.go command to start the server.
+Open your browser or postman to visit localhost:8080/current-time
 
