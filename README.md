@@ -17,5 +17,10 @@ This is a Go-based application that interacts with a MySQL database to manage an
     
 ## Run Application
 use go run main.go command to start the server.
-Open your browser or postman to visit localhost:8080/current-time
+Open your browser or postman to visit localhost:8080/current-time.
+
+## Steps
+1)Install the mysql on machine.
+![image](https://github.com/user-attachments/assets/66d8b462-e0cf-4db5-bdad-4ae7d1198e56)
+
 
